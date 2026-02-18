@@ -108,7 +108,7 @@ Through this project, I gained hands-on experience in:
 
 ## 👩‍💻 Author  
 
-Hemansi
+**Hemansi**
 Data Analytics & AI/ML Learner  
 🔗 GitHub: https://github.com/hemansi-data-ai  
 
